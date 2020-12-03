@@ -1,0 +1,8 @@
+C:\Users\Gamze-Entropitek\source\repos\KafeinExample\KafeinExample.CORE\bin\Debug\netcoreapp3.1\KafeinExample.CORE.deps.json
+C:\Users\Gamze-Entropitek\source\repos\KafeinExample\KafeinExample.CORE\bin\Debug\netcoreapp3.1\KafeinExample.CORE.dll
+C:\Users\Gamze-Entropitek\source\repos\KafeinExample\KafeinExample.CORE\bin\Debug\netcoreapp3.1\KafeinExample.CORE.pdb
+C:\Users\Gamze-Entropitek\source\repos\KafeinExample\KafeinExample.CORE\obj\Debug\netcoreapp3.1\KafeinExample.CORE.AssemblyInfoInputs.cache
+C:\Users\Gamze-Entropitek\source\repos\KafeinExample\KafeinExample.CORE\obj\Debug\netcoreapp3.1\KafeinExample.CORE.AssemblyInfo.cs
+C:\Users\Gamze-Entropitek\source\repos\KafeinExample\KafeinExample.CORE\obj\Debug\netcoreapp3.1\KafeinExample.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Gamze-Entropitek\source\repos\KafeinExample\KafeinExample.CORE\obj\Debug\netcoreapp3.1\KafeinExample.CORE.dll
+C:\Users\Gamze-Entropitek\source\repos\KafeinExample\KafeinExample.CORE\obj\Debug\netcoreapp3.1\KafeinExample.CORE.pdb

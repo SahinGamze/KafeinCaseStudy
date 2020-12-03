@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample\\KafeinExample.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.BUS\\KafeinExample.BUS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.BUS\\KafeinExample.BUS.csproj",
+        "projectName": "KafeinExample.BUS",
+        "projectPath": "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.BUS\\KafeinExample.BUS.csproj",
+        "packagesPath": "C:\\Users\\Gamze-Entropitek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.BUS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamze-Entropitek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.CORE\\KafeinExample.CORE.csproj": {
+                "projectPath": "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.CORE\\KafeinExample.CORE.csproj"
+              },
+              "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.DATA\\KafeinExample.DATA.csproj": {
+                "projectPath": "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.DATA\\KafeinExample.DATA.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.CORE\\KafeinExample.CORE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.CORE\\KafeinExample.CORE.csproj",
+        "projectName": "KafeinExample.CORE",
+        "projectPath": "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.CORE\\KafeinExample.CORE.csproj",
+        "packagesPath": "C:\\Users\\Gamze-Entropitek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.CORE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamze-Entropitek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.DATA\\KafeinExample.DATA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.DATA\\KafeinExample.DATA.csproj",
+        "projectName": "KafeinExample.DATA",
+        "projectPath": "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.DATA\\KafeinExample.DATA.csproj",
+        "packagesPath": "C:\\Users\\Gamze-Entropitek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.DATA\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamze-Entropitek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.CORE\\KafeinExample.CORE.csproj": {
+                "projectPath": "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.CORE\\KafeinExample.CORE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample\\KafeinExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample\\KafeinExample.csproj",
+        "projectName": "KafeinExample",
+        "projectPath": "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample\\KafeinExample.csproj",
+        "packagesPath": "C:\\Users\\Gamze-Entropitek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gamze-Entropitek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.BUS\\KafeinExample.BUS.csproj": {
+                "projectPath": "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.BUS\\KafeinExample.BUS.csproj"
+              },
+              "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.CORE\\KafeinExample.CORE.csproj": {
+                "projectPath": "C:\\Users\\Gamze-Entropitek\\source\\repos\\KafeinExample\\KafeinExample.CORE\\KafeinExample.CORE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
